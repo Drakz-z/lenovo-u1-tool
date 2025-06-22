@@ -19,3 +19,11 @@ I have Included a ZIP file containing all the script that Lenovo Uone tool uses 
 1. Format the USB Drive with usbfmtpw.exe as usual.
 2. Extract the contents of the ```LenovoUone.zip``` to Root of the USB drive.
 3. Reboot and Choose your USB in UEFI Boot Options and follow on screen steps.
+
+When you are Updating Thinkpad Serial Number then You have to input serial number like this
+Example For:
+
+Machine Type Model : 20S0002UAD
+Serial Number : PF2BMNC6
+1S + Machine Type Model + Serial Number
+Final: 1S20S0002UADPF2BMNC6
