@@ -23,7 +23,7 @@ I have Included a ZIP file containing all the script that Lenovo Uone tool uses 
 When you are Updating Thinkpad Serial Number then You have to input serial number like this
 Example For:
 
-Machine Type Model : 20S0002UAD
-Serial Number : PF2BMNC6
-1S + Machine Type Model + Serial Number
-Final: 1S20S0002UADPF2BMNC6
+1. Machine Type Model : 20S0002UAD
+2. Serial Number : PF2BMNC6
+3. 1S + Machine Type Model + Serial Number
+4. Final: 1S20S0002UADPF2BMNC6
